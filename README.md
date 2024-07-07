@@ -1,8 +1,7 @@
 # quantumbot
 a simple telegram with extra features
 
-[![Adjidev on Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png)](https://t.me/rizkykianadji) [![Follow me on Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png)](https://instagram.com/rizkykianadji)
-
+[![Telegram](https://img.shields.io/badge/TELEGRAM-%2300BCD4.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rizkykianadji) [![WhatsApp group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JJCwRcmcmHf4HBNhqjYvuK) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizkykianadji)
 
 **HOW TO INSTALL BOT**
 - requires 4gb ram 2 core cpu
