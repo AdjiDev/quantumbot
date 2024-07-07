@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+pytz
+threading
+pytube
+moviepy
