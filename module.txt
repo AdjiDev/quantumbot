@@ -1,4 +1,4 @@
-pyTelegramBotAPI
+telebot
 pytz
 pytube
 moviepy
