@@ -1,6 +1,6 @@
 """
 Made by Adjidev ( Rizky Kian Adji Putra )
-free recoded no enc but please give star😭😭
+free recoded no enc but please give star this repo😭😭
 """
 
 import os
