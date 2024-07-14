@@ -18,7 +18,7 @@ git clone https://github.com/AdjiDev/quantumbot
 ```bash
 pip install -r module.txt
 ```
-- edit the files config.py and set the token
+- edit the files .env and set the token
 ```python
 token = 'your_bot_token'
 ```
@@ -27,5 +27,15 @@ token = 'your_bot_token'
 cd quantumbot
 python main.py
 ```
+
+**THANKS TO**
+- eternnoir ( telegram bot module )
+- junna ( rest api )
+- my family
+- my gods
+- and users
+
+`ADJIDEV 2024`
+
 
 _More plugins will be updated as soon possible_
