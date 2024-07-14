@@ -1,4 +1,5 @@
 # quantumbot
+![Made by AdjiDev](https://telegra.ph/file/fb4df59d202f0d171b5f3.jpg)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-%2300BCD4.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rizkykianadji) [![WhatsApp group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JJCwRcmcmHf4HBNhqjYvuK) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizkykianadji)
 
  _a simple telegram bot written in python with extra features_
